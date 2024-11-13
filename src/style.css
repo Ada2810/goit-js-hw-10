@@ -1,0 +1,27 @@
+.loader,
+.error,
+.cat-info {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+select,
+.cat-info {
+    margin: 20px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
